@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: rgb(229, 229, 171);
+}
+.container{
+    /* border: 1px solid black; */
+    border-radius: 25px;
+    margin: 0 auto;
+    width: 60%;
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+
+}
+
+.container input{
+    width: 100%;
+    padding: 25px;
+    border: none;
+    outline: none;
+    text-align: right;
+    border-radius: 20px;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+}
+
+.container .head{
+    width: 100%;
+    
+}
+.head table{
+    width: 100%;
+}
+table td{
+    background-color: grey;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 30px;
+    padding-top: 30px;
+    color: white;
+
+}
+
+.text-orange{
+    background-color: orange;
+    color: white;
+}
+.border-top{
+    border: 3px solid rgb(176, 176, 122);
+}
+
+.text-org{
+    color: orange;
+}
